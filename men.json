@@ -1,0 +1,62 @@
+[
+    {
+        "img" : "pics/men1.jfif",
+        "name" : "Sneakers",
+        "company" : "Campa",
+        "price" : "54.99"
+    },
+    {
+        "img" : "pics/men2.jfif",
+        "name" : "Pants",
+        "company" : "Raymond",
+        "price" : "76.29"
+    },
+    {
+        "img" : "pics/men3.jfif",
+        "name" : "Co-ord",
+        "company" : "Kemo",
+        "price" : "67.99"
+    },
+    {
+        "img" : "pics/men4.jfif",
+        "name" : "Sherwani",
+        "company" : "Manyavar",
+        "price" : "150.45"
+    },
+    {
+        "img" : "pics/men5.jfif",
+        "name" : "Sherwani",
+        "company" : "Manyavar",
+        "price" : "207.00"
+    },
+    {
+        "img" : "pics/men6.jfif",
+        "name" : "Sadri",
+        "company" : "Manyavar",
+        "price" : "127.33"
+    },
+    {
+        "img" : "pics/men7.jfif",
+        "name" : "Lungi",
+        "company" : "Mukka",
+        "price" : "25.99"
+    },
+    {
+        "img" : "pics/men8.jfif",
+        "name" : "Shrug",
+        "company" : "Manyavar",
+        "price" : "45.79"
+    },
+    {
+        "img" : "pics/men9.jfif",
+        "name" : "Formals",
+        "company" : "Raymond",
+        "price" : "72.99"
+    },
+    {
+        "img" : "pics/man10.webp",
+        "name" : "Shirt",
+        "company" : "Raymond",
+        "price" : "72.99"
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "img" : "pics/woman1.jfif",
+        "name" : "Shrug",
+        "company" : "sadar",
+        "price" : "69.00"
+    },
+    {
+        "img" : "pics/woman2.jfif",
+        "name" : "Gown",
+        "company" : "Lopa",
+        "price" : "77.34"
+    },
+    {
+        "img" : "pics/woman3.jfif",
+        "name" : "Middi",
+        "company" : "GoYo",
+        "price" : "22.00"
+    },
+    {
+        "img" : "pics/woman4.jfif",
+        "name" : "Co-ord",
+        "company" : "Kemo",
+        "price" : "41.50"
+    },
+    {
+        "img" : "pics/woman5.jfif",
+        "name" : "Lehanga",
+        "company" : "Manyavar",
+        "price" : "120.00"
+    },
+    {
+        "img" : "pics/woman6.jfif",
+        "name" : "Kurti Set",
+        "company" : "Mukka",
+        "price" : "18.00"
+    },
+    {
+        "img" : "pics/woman7.jfif",
+        "name" : "Middi",
+        "company" : "GoYo",
+        "price" : "54.99"
+    },
+    {
+        "img" : "pics/woman8.jfif",
+        "name" : "Mini",
+        "company" : "GoYo",
+        "price" : "54.99"
+    },
+    {
+        "img" : "pics/woman9.jfif",
+        "name" : "Middi",
+        "company" : "GoYo",
+        "price" : "54.99"
+    },
+    {
+        "img" : "pics/woman10.webp",
+        "name" : "Dress",
+        "company" : "GoYo",
+        "price" : "54.99"
+    }
+
+]
+
+

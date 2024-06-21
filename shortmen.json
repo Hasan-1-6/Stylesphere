@@ -1,0 +1,32 @@
+[
+    {
+        "img" : "pics/men1.jfif",
+        "name" : "Sneakers",
+        "company" : "Campa",
+        "price" : "54.99"
+    },
+    {
+        "img" : "pics/men2.jfif",
+        "name" : "Pants",
+        "company" : "Raymond",
+        "price" : "76.29"
+    },
+    {
+        "img" : "pics/men3.jfif",
+        "name" : "Co-ord",
+        "company" : "Kemo",
+        "price" : "67.99"
+    },
+    {
+        "img" : "pics/men4.jfif",
+        "name" : "Sherwani",
+        "company" : "Manyavar",
+        "price" : "150.45"
+    },
+    {
+        "img" : "pics/men5.jfif",
+        "name" : "Sherwani",
+        "company" : "Manyavar",
+        "price" : "207.00"
+    }
+]
